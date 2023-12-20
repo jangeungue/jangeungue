@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzanggu2930@gmail.com&show_icons=true&theme=radical)
+
+
 ### Skills 🧑‍💻
 
 <!--
