@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=jang%20eun%20gye&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=jang%20eun%20gye&fontSize=40" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangeungue&show_icons=true&theme=radical)
 
