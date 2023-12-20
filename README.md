@@ -1,4 +1,6 @@
-https://github.com/kyechan99/capsule-render?tab=readme-ov-file#wave https://capsule-render.vercel.app/api?
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?color=auto&type=wave" alt="GitHub Stats">
+</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangeungue&show_icons=true&theme=radical)
