@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/C-3DDC84?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-3DDC84?style=flat-square&logo=c&logoColor=white"/ color : #02749C>
 <img src="https://img.shields.io/badge/C-3DDC84?style=flat-circle&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-3DDC84?style=flat-square&logo=c++&logoColor=blue"/>
