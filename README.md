@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/C-3DDC84?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C#&style=flat-circle&logo=c#&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#style=flat-circle&logo=c#&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-3DDC84?style=flat-square&logo=c++&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
