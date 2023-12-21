@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 ### VCS
-<img src="https://img.shields.io/badge/Github-9146FF?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-9146FF?style=flat-square&logo=github&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white"/>
 
 ### Software
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
