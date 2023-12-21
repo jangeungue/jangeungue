@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 ### VCS
-<img src="https://img.shields.io/badge/Github-9146FF?style=flat-square&logo=github&logoColor=white&height=200"/> <img src="https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-9146FF?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white"/>
 
 ### IDE
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
