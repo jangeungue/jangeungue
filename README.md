@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Language
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-circle&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-circle&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-circle&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-circle&logo=python&logoColor=white"/>
 
 ### IDE
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-circle&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-circle&logo=visualstudiocode&logoColor=white"/>
 
 ### VCS
-<img src="https://img.shields.io/badge/Github-9146FF?style=flat-square&logo=github&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white" width="100" height="30"/>
+<img src="https://img.shields.io/badge/Github-9146FF?style=flat-circle&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FF4500?style=flat-circle&logo=git&logoColor=white"/>
 
 ### Software
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" width="100" height="30"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-circle&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-circle&logo=unrealengine&logoColor=white"/>
